@@ -72,7 +72,7 @@
     }
 
     async function addPlayer() {
-        const answer = await fetch('http://127.0.0.1:8001/api/players', {
+        const answer = await fetch('http://127.0.0.1:8000/api/players', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
