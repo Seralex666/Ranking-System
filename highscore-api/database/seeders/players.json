@@ -1,0 +1,82 @@
+[
+{
+    "id": "01",
+    "name": "Daniel",
+    "nickname": "Seralex",
+    "city": "Gifhorn",
+    "score": 9001,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wappen_Landkreis_Gifhorn.svg/120px-Wappen_Landkreis_Gifhorn.svg.png"
+},
+{
+    "id": "02",
+    "name": "Pascal",
+    "nickname": "Samou",
+    "city": "Duisburg",
+    "score": 8998,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/DEU_Duisburg_COA.svg/250px-DEU_Duisburg_COA.svg.png"
+},
+{
+    "id": "03",
+    "name": "Michaela",
+    "nickname": "Syndyce",
+    "city": "Ingolstadt",
+    "score": 8999,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/DEU_Ingolstadt_COA.svg/120px-DEU_Ingolstadt_COA.svg.png"
+},
+{
+    "id": "04",
+    "name": "Sven",
+    "nickname": "Maniac",
+    "city": "Gifhorn",
+    "score": 9000,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wappen_Landkreis_Gifhorn.svg/120px-Wappen_Landkreis_Gifhorn.svg.png"
+},
+{
+    "id": "05",
+    "name": "Sören",
+    "nickname": "Sörenson",
+    "city": "Gifhorn",
+    "score": 8000,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Wappen_Landkreis_Gifhorn.svg/120px-Wappen_Landkreis_Gifhorn.svg.png"
+},
+{
+    "id": "06",
+    "name": "Tim",
+    "nickname": "2Bad",
+    "city": "Saarbrücken",
+    "score": 7999,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/DEU_Saarbruecken_COA.svg/250px-DEU_Saarbruecken_COA.svg.png"
+},
+{
+    "id": "07",
+    "name": "Desiree",
+    "nickname": "ShadowViva",
+    "city": "Saarbrücken",
+    "score": 9000,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/DEU_Saarbruecken_COA.svg/250px-DEU_Saarbruecken_COA.svg.png"
+},
+{
+    "id": "08",
+    "name": "Maik",
+    "nickname": "Wuzelnator ",
+    "city": "Darmstadt",
+    "score": 8888,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Wappen_Darmstadt.svg/120px-Wappen_Darmstadt.svg.png"
+},
+{
+    "id": "09",
+    "name": "Renate",
+    "nickname": "Loona",
+    "city": "Frankfurt",
+    "score": 1000,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/DEU_Frankfurt_am_Main_COA.svg/250px-DEU_Frankfurt_am_Main_COA.svg.png"
+},
+{
+    "id": "10",
+    "name": "Liza",
+    "nickname": "LizaTalia",
+    "city": "Bremen",
+    "score": 8888,
+    "coaturl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Bremen_Wappen%28Mittel%29.svg/250px-Bremen_Wappen%28Mittel%29.svg.png"
+}
+]
