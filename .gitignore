@@ -7,9 +7,6 @@ vendor/
 .env.*
 !.env.example
 
-# Local databases
-*.sqlite
-*.sqlite3
 
 # Build output
 dist/
